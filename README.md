@@ -4,3 +4,6 @@
 
 ## Produtos
 <img width="1018" height="532" alt="image" src="https://github.com/user-attachments/assets/11d2c3af-4dd6-49ec-b804-b9e457b9efee" />
+
+## Consulta dos itens no Postman
+<img width="1434" height="805" alt="image" src="https://github.com/user-attachments/assets/deeaf45d-7b2f-4774-b072-19b0985d7b7a" />
